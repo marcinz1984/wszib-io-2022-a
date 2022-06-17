@@ -20,7 +20,6 @@ class Trojkaty {
                     return jednakowe;
                 }
                 /**
-  /**
                  * Główna funkcja programu.
                  * @param {float} a - Długość pierwszego boku.
                  * @param {float} b - Długość drugiego boku.
@@ -33,7 +32,6 @@ class Trojkaty {
                     } else if (jednakoweDlugosci > 0) {
                         System.out.println("Trójkąt równoramienny");
                     }
-                }
     /** Wyświetla ekran pomocy */
     public static void pomoc(){
         System.out.println("Acme INC. (C) 2022");
